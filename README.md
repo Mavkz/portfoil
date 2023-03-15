@@ -7,5 +7,4 @@
 * Flex-box
 
 ## Made by:
-### Guilherme Carvallio
-```
+### Mavkz
